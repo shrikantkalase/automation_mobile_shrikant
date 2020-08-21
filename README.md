@@ -28,7 +28,7 @@ src/test/java/
 
 # Automation Report - 
 1) install allure https://docs.qameta.io/allure/ 
-2) Aftr execution testc tescases - allure report folder will gererate under the project (copy local path)
+2) Aftr execution tescases - allure report folder will gererate under the project (copy local path)
 3) go to command line go to the allure installed location - allure serve (path of generated folder) 
 
 
